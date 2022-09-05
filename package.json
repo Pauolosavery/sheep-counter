@@ -26,7 +26,6 @@
     "extends": [
       "react-app",
       "react-app/jest",
-      "airbnb-base"
     ]
   },
   "browserslist": {
