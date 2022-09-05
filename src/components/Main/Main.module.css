@@ -1,0 +1,29 @@
+.startBtn img{
+    margin-top: 10%;
+    height: 80px;
+    width: auto;
+}
+
+.zabor {
+    margin-top: 10%;
+    height: 90px;
+    width: auto;
+    background-image: url(./zabor.png);
+    background-repeat: repeat-x;
+    background-size: contain;
+}
+
+.hill {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.addSheep {
+    margin: 3%;
+    width: 260px;
+    height: 199px;
+    filter: opacity(0.7);
+}

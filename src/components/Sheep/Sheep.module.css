@@ -1,0 +1,28 @@
+.sheep {
+    font-size: 300%;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: #222929;
+    margin: 3%;
+    width: 260px;
+    height: 199px;
+    background-image: url(./sheep.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.change {
+    width: 20%;
+    height: auto;
+}
+
+.change img {
+    width: 100%;
+}
+
+.sheepCounter {
+    background-color: white;
+}

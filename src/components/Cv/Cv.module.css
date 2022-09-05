@@ -1,0 +1,24 @@
+.CV {
+    margin-top: 10%;
+    display: flex;
+    justify-content: center;
+}
+
+.cvIcons {
+    display: flex;
+    justify-content: center;
+    max-width: 333px;
+    height: 80px;
+}
+
+.cvIcons img {
+    margin: 10px;
+    border-radius: 50%;
+    height: 100%;
+    width: auto;
+}
+
+.tlg:hover {
+    scale: 250%;
+    border-radius: 5%;
+}

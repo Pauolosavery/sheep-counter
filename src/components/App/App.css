@@ -1,0 +1,11 @@
+body {
+  background: url(../../../public/img/hill.png) no-repeat;
+  /* background-position: 0px, -270px; */
+  background-size: 100%;
+  color: #fff;
+  height: 100%;
+  background-color: #b3fa00
+}
+.App {
+  text-align: center;
+}
